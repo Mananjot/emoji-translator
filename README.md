@@ -1,2 +1,2 @@
 # emoji-translator
-Created with CodeSandbox
+The Application Written in ReactJS which tells the meaning of the emojies.
